@@ -5,7 +5,7 @@
 
 ## Technologies
 
-* "react": ^18.2.0
+* react: ^18.2.0
 
 
 ## Installation 
@@ -25,13 +25,13 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  npm start
+  npm install
 ```
 
 Start the server
 
 ```bash
-  npm run start
+  npm  start
 ```
 
 
